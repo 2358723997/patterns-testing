@@ -1,4 +1,4 @@
-package observe.jdkobserver;
+package com.test.pattern.observe.jdkobserver;
 
 import lombok.Data;
 

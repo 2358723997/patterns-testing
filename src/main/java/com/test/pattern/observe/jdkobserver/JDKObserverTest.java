@@ -1,4 +1,4 @@
-package observe.jdkobserver;
+package com.test.pattern.observe.jdkobserver;
 
 /**
  * JDKObserverTest类
